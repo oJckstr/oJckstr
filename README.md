@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello! 👋
+
+I am currently a first year student of Computer Science at Leeds Beckett University (CS4D).
 
 <!--
 **oJckstr/oJckstr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
