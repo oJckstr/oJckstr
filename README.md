@@ -13,7 +13,8 @@ I am currently a first year student of Computer Science at Leeds Beckett Univers
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
           
-          
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3135xdn5ceomdvufufcwomlj7xma&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
           
 
 
