@@ -15,7 +15,7 @@ I am currently a first year student of Computer Science at Leeds Beckett Univers
           
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3135xdn5ceomdvufufcwomlj7xma&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojckstr)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojckstr&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
