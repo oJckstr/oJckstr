@@ -13,7 +13,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3135xdn5ceomdvufufcwomlj7xma&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile) [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojckstr&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojckstr&" alt="ojckstr" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ojckstr&label=Profile%20views&color=0e75b6&style=flat" alt="ojckstr" /> </p>
 
 
 
