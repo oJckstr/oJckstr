@@ -20,7 +20,7 @@ I am currently a first year student of Computer Science at Leeds Beckett Univers
 
 
 <h1 align="center">Hi 👋, I'm Jack</h1>
-<h3 align="center">I am currently a first year student of Computer Science at Leeds Beckett University (CS4D). frontend developer from India</h3>
+<h3 align="center">I am currently a first year student of Computer Science at Leeds Beckett University (CS4D).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojckstr&label=Profile%20views&color=0e75b6&style=flat" alt="ojckstr" /> </p>
 
