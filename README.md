@@ -12,7 +12,7 @@
 
 - 🔭 I'm currently working on **building my programming fundamentals and exploring various CS concepts**
 - 🌱 I'm currently learning **Python, web development, and software engineering principles**
-- 📫 How to reach me: **j.southward6957@student.leedsbeckett.ac.uk (for uni related things) or jack@jacksouthward.com**
+- 📫 How to reach me: **j.southward6957@student.leedsbeckett.ac.uk (for uni related things or uni@jacksouthward.com) or jack@jacksouthward.com**
 
 ---
 
@@ -32,6 +32,7 @@
 ---
           
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojckstr&label=Profile%20views&color=0e75b6&style=flat" alt="ojckstr" /> </p>
+
 
 
 
