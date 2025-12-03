@@ -23,7 +23,6 @@
 
 ## 🎯 Current Focus
 
-- Building strong foundations in **algorithms and data structures**
 - Practicing **problem-solving** through coding challenges
 - Learning **version control** with Git and GitHub
 - Developing **web development** skills through making random websites in my own time
@@ -32,6 +31,7 @@
 ---
           
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojckstr&label=Profile%20views&color=0e75b6&style=flat" alt="ojckstr" /> </p>
+
 
 
 
