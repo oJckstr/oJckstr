@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
 
-<h3 align="center">I am currently a first year student of Computer Science at Leeds Beckett University (CS4D). </h3>
+<h3 align="center">I am currently a first year student of Software Engineering at Leeds Beckett University (CS4D). </h3>
 
 <p align="center">
   <em>Passionate about technology and constantly exploring new programming concepts. Building my foundation in computer science while working on projects that challenge me to grow as a developer.</em>
@@ -11,7 +11,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I'm currently working on **building my programming fundamentals and exploring various CS concepts**
-- 🌱 I'm currently learning **Python, web development, and software engineering principles**
+- 🌱 I'm currently learning **Python, web development, c/c++ and software engineering principles**
 - 📫 How to reach me: **j.southward6957@student.leedsbeckett.ac.uk (for uni related things or uni@jacksouthward.com) or jack@jacksouthward.com**
 
 ---
